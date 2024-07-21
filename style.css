@@ -34,17 +34,17 @@
 	font-size: 20px;
 	bottom: 3px;
 	front-family: Aria, sans-serif;
-	color: #DE0B0B;
+	color:#DE0B0B;
 }
 
 a:link {
-    color:          
+    color:#DE0B0B;          
     background-color: transparent;
     text-decoration: none;
 }
 
 a:visited {
-    color: #DE0B0B;
+    color:#DE0B0B;
     background-color: transparent;
     text-decoration: none;
 }
