@@ -4,10 +4,10 @@
 }
 
 .cs2_body {
-	background-size: cover;
+	/*background-size: cover;
 	background-attachment: scroll;
-	background-image: url(pages/cs2/IMG/backB.jpg);	
-	/*background: #DBDBDB;*/
+	background-image: url(pages/cs2/IMG/backB.jpg);*/	
+	background: #3d3d3d;
 	/*width: 100%;
     height: 100vh;*/
 }
