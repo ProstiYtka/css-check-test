@@ -1,3 +1,8 @@
+body {
+	transform: scale(0.85); 
+	transform-origin: center;
+  }
+
 .bss {
 	vertical-align: middle;
 	text-align: center;
@@ -29,3 +34,19 @@
 	color: #DE0B0B;
 }
 
+.css-sersers {
+	vertical-align: middle;
+	text-align: center;
+}
+
+a:link {
+    color:#DE0B0B;          
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#DE0B0B;
+    background-color: transparent;
+    text-decoration: none;
+}
