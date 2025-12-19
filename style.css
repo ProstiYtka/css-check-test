@@ -41,7 +41,12 @@ body {
 	front-family: Aria, sans-serif;
 	color:#DE0B0B;
 }
-
+.p-rev{
+	font-size: 20px;
+	bottom: 3px;
+	front-family: Aria, sans-serif;
+	color:#DE0B0B;
+}
 a:link {
     color:#DE0B0B;          
     background-color: transparent;
@@ -88,3 +93,4 @@ a:visited {
     border-top-style: solid;
     border-top-color: rgb(167, 8, 8);
 }*/
+
